@@ -1,0 +1,14 @@
+{
+  "name": "cordova-angular-ngcordova-ionic",
+  "description": "",
+  "version": "0.0.0",
+  "homepage": "",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "ionic": "driftyco/ionic-bower#1.0.0-rc.0",
+    "ngCordova": "~0.1.12-alpha",
+    "lodash": "~3.3.1",
+    "moment": "~2.9.0"
+  }
+}

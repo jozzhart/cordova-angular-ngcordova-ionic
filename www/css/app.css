@@ -1,0 +1,119 @@
+ion-view ion-content {
+  background: #f6f8fb;
+}
+ion-side-menu ion-header-bar.bar {
+  background: #444444;
+}
+ion-side-menu ion-header-bar.bar .title {
+  color: #fff;
+}
+.card {
+  border-radius: 0;
+}
+.card .item:first-child {
+  border-radius: 0;
+  border-top: 5px solid #fff;
+}
+.card .item h1 {
+  margin-top: 0;
+}
+.card .item h2 {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+.card .item.line-1465 {
+  border-top-color: #ed1c24;
+}
+.card .item.line-1465 h2 {
+  color: #ed1c24;
+}
+.card .item.line-1466 {
+  border-top-color: #00adef;
+}
+.card .item.line-1466 h2 {
+  color: #00adef;
+}
+.card .item.line-1467 {
+  border-top-color: #faa519;
+}
+.card .item.line-1467 h2 {
+  color: #faa519;
+}
+.card .item.line-1468 {
+  border-top-color: #756fb3;
+}
+.card .item.line-1468 h2 {
+  color: #756fb3;
+}
+.card .item.line-1469 {
+  border-top-color: #848285;
+}
+.card .item.line-1469 h2 {
+  color: #848285;
+}
+.card .item.line-1470 {
+  border-top-color: #8cc63e;
+}
+.card .item.line-1470 h2 {
+  color: #8cc63e;
+}
+.card .item.line-1471 {
+  border-top-color: #b47633;
+}
+.card .item.line-1471 h2 {
+  color: #b47633;
+}
+.card .item.line-1472 {
+  border-top-color: #b6557e;
+}
+.card .item.line-1472 h2 {
+  color: #b6557e;
+}
+.card .item.line-1473 {
+  border-top-color: #f7abad;
+}
+.card .item.line-1473 h2 {
+  color: #f7abad;
+}
+.card .item.line-1474 {
+  border-top-color: #387031;
+}
+.card .item.line-1474 h2 {
+  color: #387031;
+}
+.card .item.line-1475 {
+  border-top-color: #3b2314;
+}
+.card .item.line-1475 h2 {
+  color: #3b2314;
+}
+.card .item.line-1476 {
+  border-top-color: #ffca04;
+}
+.card .item.line-1476 h2 {
+  color: #ffca04;
+}
+.card .item.line-1477 {
+  border-top-color: #253750;
+}
+.card .item.line-1477 h2 {
+  color: #253750;
+}
+.item-avatar {
+  padding-left: 92px;
+  min-height: 92px;
+}
+.item-avatar > img:first-child {
+  max-height: 60px;
+  max-width: 60px;
+  border-radius: 5px;
+}
+.tabs-icon-left > .tabs .tab-item {
+  font-size: 14px;
+}
+.tabs-icon-left > .tabs .tab-item .icon {
+  padding-right: 6px;
+}
+.tabs-top.tabs-striped .tab-item.tab-item-active > i {
+  margin-top: -2px;
+}
