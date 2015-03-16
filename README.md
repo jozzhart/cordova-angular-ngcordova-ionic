@@ -44,6 +44,14 @@ cordova platform add ios
 gulp watch
 ```
 
+Install to android
+-------------
+Plug in your device and make sure developer mode is enabled
+```
+cordova platform add android
+cordova run android
+```
+
 Test
 -------------
 ```
