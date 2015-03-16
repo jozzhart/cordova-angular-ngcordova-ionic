@@ -39,6 +39,8 @@ mkdir myProject
 cd myProject
 git clone https://github.com/jozzhart/cordova-angular-ngcordova-ionic.git ./
 npm install
+cordova platform add browser
+cordova platform add ios
 gulp watch
 ```
 
